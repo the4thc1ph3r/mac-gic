@@ -5,5 +5,4 @@ A simple and useful MAC Address changing tool
 
 ```
 python3 mac-gic.py
-
 ```
