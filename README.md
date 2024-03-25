@@ -1,5 +1,5 @@
 # mac-gic
-A simple and useful MAC Address changing tool
+A simple and useful MAC Address changing tool for Linux!
 
 # USAGE:
 
